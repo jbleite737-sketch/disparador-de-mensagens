@@ -1,0 +1,4 @@
+node_modules/
+artifacts/
+extension/vendor/*
+!extension/vendor/.gitkeep
